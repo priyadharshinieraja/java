@@ -1,0 +1,13 @@
+java introduction
+  Java is concurrent, object-oriented, and intended to let application developers “write once, run anywhere” (WORA). Java is considered a fast language, almost as fast as languages like C and Rust, but it uses a lot of memory in comparison to these languages.
+history of java
+   Java was originally developed by James Gosling at Sun Microsystems (which has since been acquired by Oracle Corporation) and released in 1995 as a core component of Sun Microsystems’ Java platform. The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.
+
+The Java programming language was designed to be a machine-independent programming language powerful enough to replace native executable code. Initially started with Applets (embedded components in a webpage), Java is today the most used platform for web-based applications and web services. Today, an offshoot of the Java platform is the basis for Google’s Android operating system which powers billions of phones and other mobile devices.
+
+Oracle Corporation is the current owner of the official implementation of the Java SE platform, following their acquisition of Sun Microsystems on January 27, 2010. This implementation is based on the original implementation of Java by Sun. The Oracle implementation is available for Microsoft Windows, Mac OS X, Linux, and Solaris.
+
+The Oracle implementation is packaged into two different distributions:
+
+Java Runtime Environment (JRE) which contains the parts of the Java SE platform required to run Java programs and is intended for end users.
+Java Development Kit (JDK) which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger.
